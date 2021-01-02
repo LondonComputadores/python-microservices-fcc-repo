@@ -45,7 +45,12 @@ Watch the full course on the https://youtu.be/0iB5IPoTDts (2 hours watch).
 - source venv3/Scripsts/activate (git bash as the terminal)
 - pip install django
 - pip install djangorestframework
+- pip install django-mysql
+- pip install mysqlclient
+- pip install django-cors-headers
+- pip install pika
 - django-admin startapp admin
+- django-admin startapp products
 - docker-compose up
 - pip freeze
 - pip freeze > requirements.txt
