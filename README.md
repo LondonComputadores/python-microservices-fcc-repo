@@ -1,6 +1,6 @@
 ## python-microservices-fcc-repo
 
-# Python Microservices by freeCodeCamp and Reproduced by Alexandre Paes
+# Python Microservices by freeCodeCamp - Reproduced by Alexandre Paes
 
 #### Learn About Python Microservices by Building an App Using Django, Flask, and React
 
@@ -12,30 +12,30 @@ We've released a course on the freeCodeCamp.org YouTube channel that help you le
 
 Antonio from Scaleable Scripts created this course. Antonio has a lot of experience creating software courses.
 
-Here are the topics covered in this course:
+#### Here are the topics covered in this course:
 
-What are Microservices?
-Project Introduction
-Django Setup
-Adding Docker Files
-Connect Django with MySQL with Docker
-Models & Serializers
-Rest APIs with ViewSets
-User Endpoint with APIView
-Flask Setup with Docker
-Connect Flask with Mysql
-Models
-Flask Migrations
-RabbitMQ
-Django Producer and Consumer
-Flask Producer and Consumer
-Queue Service
-Data Consistency
-Internal Http Requests
-Finishing the python apps
-React Setup
-Products CRUD
-Completing the Main App
+- What are Microservices?
+- Project Introduction
+- Django Setup
+- Adding Docker Files
+- Connect Django with MySQL with Docker
+- Models & Serializers
+- Rest APIs with ViewSets
+- User Endpoint with APIView
+- Flask Setup with Docker
+- Connect Flask with Mysql
+- Models
+- Flask Migrations
+- RabbitMQ
+- Django Producer and Consumer
+- Flask Producer and Consumer
+- Queue Service
+- Data Consistency
+- Internal Http Requests
+- Finishing the python apps
+- React Setup
+- Products CRUD
+- Completing the Main App
 
 Watch the full course on the https://youtu.be/0iB5IPoTDts (2 hours watch).
 
