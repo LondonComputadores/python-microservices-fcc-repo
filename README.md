@@ -57,6 +57,14 @@ Watch the full course on the https://youtu.be/0iB5IPoTDts (2 hours watch).
 - docker-compose exec backend sh
 - #python manage.py makemigrations
 - #python manage.py migrate
+- mkdir main
+- cd main
+- touch main.py
+- Copy and paste Dockerfile and also docker-compose.yml from the admin folder and change a few parameters as seen on the updated now. Just compare then will see the changes.
+- pip install Flask==1.1.2 Flask-SQLAlchemy==2.4.4 SQLAlchemy==1.3.20 Flask-Migrate==2.5.3 Flask-Script==2.0.6 Flask-Cors==3.0.9 requests==2.25.0
+- python main.py (just for initial flask testing)
+- crtl + c
+- docker-compose up (just for initial flask testing with docker...)
 
 
 ### Referencies
